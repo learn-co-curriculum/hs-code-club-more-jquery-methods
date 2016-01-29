@@ -192,4 +192,4 @@ Don't forget to shut down your server by hitting `control` and `c` before you mo
 
 
 
-<a href='https://learn.co/lessons/hs-code-club-more-jquery-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-more-jquery-methods' title='Traffic Light'>Traffic Light</a> on Learn.co and start learning to code for free.</p>
